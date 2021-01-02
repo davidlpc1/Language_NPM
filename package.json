@@ -1,7 +1,7 @@
 {
   "name": "davidlpc1-languages",
   "version": "1.0.1",
-  "description": "My First package of NPM build done following the steps of an <a href=\"https://www.alura.com.br/artigos/criando-e-publicando-uma-biblioteca-javascript-no-npm?gclid=Cj0KCQiA0MD_BRCTARIsADXoopbOcUo_4THPfxVkCikBzWig522VZzOHdxZoDtjouav7UqssSjX2wmsaAlrXEALw_wcB\">article by Alura</a>\r Dw9TtURcjw9WpUG",
+  "description": "My First package of NPM build done following the steps of an <a href=\"https://www.alura.com.br/artigos/criando-e-publicando-uma-biblioteca-javascript-no-npm?gclid=Cj0KCQiA0MD_BRCTARIsADXoopbOcUo_4THPfxVkCikBzWig522VZzOHdxZoDtjouav7UqssSjX2wmsaAlrXEALw_wcB\">article by Alura</a>\r",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
