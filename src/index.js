@@ -1,5 +1,10 @@
-const linguagens = require('./linguagens-de-programacao.json')
+const languanges = require('./linguagens-de-programacao.json')
+
+const forEachLanguage = (callback) => {
+    languanges.forEach(callback);
+}
 
 module.exports = { 
-    all: linguagens
+    all: languanges,
+    forEachLanguage
 }
